@@ -1,0 +1,8 @@
+$component::create([
+     'tipo'=> 'capacitor',
+     'quantidade' => '10',
+     'capacidade' => '104 uF',
+     'color',
+     'descricao',
+     'modelo' ]);
+
