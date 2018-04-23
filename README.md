@@ -1,9 +1,8 @@
-# simple_inventory_laravel
+# Eletronic parts inventory
 
-## began to scratch this to keep track of my eletronic components!
+## This is a scratch!
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pinout_of_ARDUINO_Board_and_ATMega328PU.svg/1123px-Pinout_of_ARDUINO_Board_and_ATMega328PU.svg.png)
+###I'm so out of time, but I putting this here just to get it organized.
+###Hope to get this done soon, although a great part is already written.
 
 
-
-Still so much to do; but, so far, it's a good start.
